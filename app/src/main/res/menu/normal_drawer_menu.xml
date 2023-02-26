@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:title="@string/normal_menu_model">
+            <menu>
+                <item
+                    android:id="@+id/normal_chat"
+                    android:icon="@drawable/ic_completion"
+                    android:title="@string/normal_menu_chat" />
+                <item
+                    android:id="@+id/normal_image"
+                    android:icon="@drawable/ic_draw"
+                    android:title="@string/normal_menu_draw" />
+            </menu>
+        </item>
+        <item android:title="@string/normal_menu_app">
+            <menu>
+                <item
+                    android:id="@+id/normal_clear"
+                    android:icon="@drawable/ic_clear"
+                    android:title="@string/normal_menu_clear" />
+            </menu>
+        </item>
+    </group>
+</menu>

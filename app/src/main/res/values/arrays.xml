@@ -1,0 +1,32 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="reply_entries">
+        <item>GPT ver3</item>
+        <item>GPT ver2</item>
+    </string-array>
+
+    <string-array name="reply_values">
+        <item>text-davinci-003</item>
+        <item>text-davinci-002</item>
+    </string-array>
+
+    <string-array name="image_size">
+        <item>256x256（standard）</item>
+        <item>1024x1024 (default)</item>
+    </string-array>
+
+    <string-array name="image_size_data">
+        <item>256x256</item>
+        <item>1024x1024</item>
+    </string-array>
+
+    <string-array name="image_download">
+        <item>应用内部</item>
+        <item>公共目录</item>
+    </string-array>
+
+    <string-array name="image_download_data">
+        <item>inner</item>
+        <item>outer</item>
+    </string-array>
+</resources>

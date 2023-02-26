@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">ChatBot</string>
+    <string name="app_subtitle">基于ChatGPT官方API开发的移动端应用</string>
+    <string name="app_headline">v0.0.1-rc（软件不含任何担保）</string>
+
+    <string name="login_app">提供凭据</string>
+    <string name="login_title">我们需要获取登录凭据以继续</string>
+    <string name="login_api_token">API Key</string>
+    <string name="login_api_key_tip">APIKey是你在OpenAI官网上获取的属于你个人的私有key，我们需要借助其发起请求。</string>
+    <string name="login_key_remember">记住我的Key</string>
+    <string name="login_submit">提交并进入</string>
+    <string name="login_developer">开发者测试</string>
+    <string name="login_key_empty">APIKey不得为空！</string>
+
+    <string name="normal_app">文本完成</string>
+    <string name="normal_question">欲完成的文本</string>
+    <string name="normal_question_tip">类似简易问答，但不得输入回车等转义符号</string>
+    <string name="normal_ask">发起</string>
+    <string name="normal_drawer_name">你好，使用者</string>
+    <string name="normal_drawer_subtitle">更换模块将刷新当前视图</string>
+    <string name="normal_menu_model">GPT模块</string>
+    <string name="normal_menu_chat">文本完成</string>
+    <string name="normal_menu_draw">命令图像</string>
+    <string name="normal_menu_py2zh">编程语言转中文</string>
+    <string name="normal_menu_app">全局选项</string>
+    <string name="normal_menu_clear">清理历史</string>
+    <string name="coder_drawer_open">打开侧边导航</string>
+    <string name="coder_drawer_close">关闭侧边导航</string>
+    <string name="normal_menu_setting">首选项</string>
+    <string name="normal_menu_about">关于</string>
+    <string name="title_activity_settings">首选项</string>
+
+    <string name="messages_header">文本完成模块</string>
+    <string name="sync_header">通用</string>
+    <string name="image_gpt">命令图像模块</string>
+    <string name="signature_title">单次回应内容长度</string>
+    <string name="reply_title">应答GPT模型版本</string>
+    <string name="sync_title">持久化存储</string>
+    <string name="attachment_summary_on">你的对话将会被记录到私有目录</string>
+    <string name="attachment_summary_off">你的对话将会在变更模块、退出应用时被清空</string>
+    <string name="model_tips">002模型为上一代GPT，能理解中文但不能以中文完成文本，且其他功能貌似只能以003模型完成</string>
+    <string name="length_tips">chatGPT完成的文本长度（你能看到的文字数量，一个汉字长度为2），建议为2的倍数，越大响应问题耗时越长且最大不得超过4096</string>
+    <string name="clear_input">自动清除输入框</string>
+    <string name="clear_input_on">我们将会在响应完成后自动清除输入框中的内容</string>
+    <string name="clear_input_off">输入框的内容在完成响应之后将仍然保留</string>
+    <string name="image_size">生成图像清晰度</string>
+    <string name="image_download">图像下载存储地址</string>
+    <string name="image_delete_sync">同步删除</string>
+    <string name="image_delete_sync_on">你的图像（存储在应用内部）会在删除记录时被一并删除</string>
+    <string name="image_delete_sync_off">你的图像（存储在应用内部）会在删除记录时仍然被保存</string>
+
+    <string name="image_app">命令图像</string>
+    <string name="image_submit">绘制</string>
+    <string name="image_tip">欲绘制的图像</string>
+    <string name="image_hint">输入要绘制图像的特征，如「小桥流水人家」</string>
+    <string name="image_con">图像内容</string>
+
+    <string name="py2zh_add">添加解析</string>
+    <string name="py2zh_window_title">查看代码详情</string>
+    <string name="py2zh_window_question">你的提问内容</string>
+    <string name="py2zh_window_answer">GPT解释</string>
+
+    <string name="keywords_app">关键字提取</string>
+    <string name="keywords_back">关闭窗口</string>
+    <string name="keywords_sentences">原文</string>
+    <string name="keywords_words">参考关键词</string>
+    <string name="keywords_copy">复制结果</string>
+    <string name="keywords_delete">删除此条</string>
+
+    <string name="about_version">Version: 0.0.1-rc</string>
+    <string name="about_developer">开发者：梦之黯蓝（Blue Dream）</string>
+    <string name="about_description">简介：本软件是借鉴使用OpenAI提供的curl请求方式设计的二次开发的chatGPT便捷使用工具。它能对特定的发起方式做专门的处理以方便你的使用。</string>
+    <string name="about_acknowledge">素材来源：应用中「蓝色人像」和「蓝色机器人像」来自 iconfont.cn</string>
+    <string name="about_policy">申明：此软件基于 AGPL-V3.0协议开源，且不包含任何担保。请在此许可证许可的范围内修改、复制、分发此软件及其副本。</string>
+</resources>
