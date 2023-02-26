@@ -1,37 +1,21 @@
 # ChatBot
 
-#### 介绍
-基于OpenAI官方curl API二次开发的简易调用app
+#### Description
+Simple calling app based on the secondary development of OpenAI official curl API
 
-#### 软件架构
-软件架构说明
+#### System requirement
+This software runs on Android 8.0 and later, and requires read and write access to files.
+At the same time, your device needs to have at least 50MB running memory for the software, and make sure there are at least 60MB flash controls left.
 
+#### How to use
+1. Install the app and give permissions
+2. Provide your API-Key to access to chatGPT
+3. Enjoy it
 
-#### 安装教程
+#### Contribution
+If you find any problems with the software during use, or if you have any good suggestions for software development, 
+please feel free to mention "issue" to us. We will read your content carefully and make improvements.
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+#### Tips
+1. I will continue to maintain this project.
+2. We only provide "简体中文（Chinese Simplified）" in the software.
