@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">ChatBot</string>
     <string name="app_subtitle">基于ChatGPT官方API开发的移动端应用</string>
-    <string name="app_headline">v0.0.1-rc（软件不含任何担保）</string>
+    <string name="app_headline">v0.0.2（软件不含任何担保）</string>
 
     <string name="login_app">提供凭据</string>
     <string name="login_title">我们需要获取登录凭据以继续</string>
@@ -67,7 +67,7 @@
     <string name="keywords_copy">复制结果</string>
     <string name="keywords_delete">删除此条</string>
 
-    <string name="about_version">Version: 0.0.1-rc</string>
+    <string name="about_version">Version: 0.0.2</string>
     <string name="about_developer">开发者：梦之黯蓝（Blue Dream）</string>
     <string name="about_description">简介：本软件是借鉴使用OpenAI提供的curl请求方式设计的二次开发的chatGPT便捷使用工具。它能对特定的发起方式做专门的处理以方便你的使用。</string>
     <string name="about_acknowledge">素材来源：应用中「蓝色人像」和「蓝色机器人像」来自 iconfont.cn</string>
